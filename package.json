@@ -1,0 +1,25 @@
+{
+  "name": "c2-evaluation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salemebasumata58/C2-evaluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salemebasumata58/C2-evaluation/issues"
+  },
+  "homepage": "https://github.com/salemebasumata58/C2-evaluation#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  },
+  "description": ""
+}
